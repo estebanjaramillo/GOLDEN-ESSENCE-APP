@@ -1,5 +1,8 @@
 # GOLDEN-ESSENCE-APP
+
 Aplicación local de venta de joyas "Golden Essence"
+
+//ESTA EN ETAPA DE DESARROLLO//
 
 * LINK DE DESCARGA:
 https://drive.google.com/file/d/1Qr-9vYRglIszofWh9TkZbvnjhU8JSqLZ/view?usp=sharing
