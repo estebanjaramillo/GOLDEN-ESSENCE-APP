@@ -2,7 +2,7 @@
 Aplicación local de venta de joyas "Golden Essence"
 
 * LINK DE DESCARGA:
-https://drive.google.com/file/d/1Q_UiYi0CRNUR9tTubb_agz9XkM66bQZh/view?usp=sharing
+https://drive.google.com/file/d/1Qr-9vYRglIszofWh9TkZbvnjhU8JSqLZ/view?usp=sharing
 
 * LINK DE DESCARGA JAVA:
 https://drive.google.com/file/d/1rS1WT58-D80SWnAPtIbb8mJJA13OvfmD/view?usp=sharing
