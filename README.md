@@ -5,7 +5,7 @@ Aplicación local de venta de joyas "Golden Essence"
 //ESTA EN ETAPA DE DESARROLLO//
 
 * LINK DE DESCARGA:
-https://drive.google.com/file/d/1Qr-9vYRglIszofWh9TkZbvnjhU8JSqLZ/view?usp=sharing
+https://drive.google.com/file/d/12cg6epnL8ae7U8zvfLlgoatZJYNtUtPh/view?usp=sharing
 
 * LINK DE DESCARGA JAVA:
 https://drive.google.com/file/d/1rS1WT58-D80SWnAPtIbb8mJJA13OvfmD/view?usp=sharing
